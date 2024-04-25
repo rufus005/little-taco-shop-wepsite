@@ -2,6 +2,7 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 table, th, td, tr, caption {
@@ -11,3 +12,21 @@ table, th, td, tr, caption {
     border-radius: 5px;
 
 }
+
+/* h1 {
+    font-size: 3rem;
+    text-align: center;
+    background-color: rgb(232, 200, 200);
+    margin: 0;
+    font-family: monospace;
+}
+nav ul, li{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    list-style: none;
+}
+aside{
+    color: rgb(14, 40, 185);
+    text-align: end;
+} */
